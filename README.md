@@ -83,11 +83,6 @@ This project presents an interactive **HR Analytics Dashboard** built using Powe
 
 ---
 
-## 📷 Dashboard Preview
-(Add screenshots here)
-
----
-
 ## 📌 Conclusion
 This dashboard helps HR teams monitor workforce trends and make strategic decisions to reduce employee attrition.
 
